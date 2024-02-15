@@ -51,3 +51,25 @@ In this assignment, we delve into advanced techniques in system identification, 
   - **AutoRegressive with eXogenous inputs (ARX) Models**
 
 
+## Homework 2: Advanced Techniques in Neural Networks and Learning Algorithms
+
+Homework 2 delves into advanced techniques in neural networks and learning algorithms, extending beyond traditional approaches to explore cutting-edge methodologies in system identification.
+
+### Key Features:
+
+- **Perceptron Networks:**
+  Implement and analyze perceptron networks, foundational models in neural network theory, for system identification tasks.
+
+- **Radial Basis Function (RBF) Networks:**
+  Explore the use of RBF networks, which utilize radial basis functions as activation functions, for modeling complex relationships in system identification.
+
+- **Normalized Radial Basis Function (NRBF) Networks:**
+  Investigate NRBF networks, an extension of RBF networks with normalized basis functions, for improved performance and stability in parameter estimation.
+
+- **LOLIMOT Algorithm:**
+  Introduce the LOLIMOT (Local Linear Model Tree) algorithm, a hybrid learning approach combining tree-based modeling with local linear models, for efficient and accurate system identification.
+
+- **LLNF Network:**
+  Explore the LLNF (Local Linear Neuro-Fuzzy) network, which integrates neuro-fuzzy techniques with local linear models, offering adaptive learning capabilities for system identification tasks.
+
+
