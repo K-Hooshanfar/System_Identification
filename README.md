@@ -1,5 +1,8 @@
 # System Identification Projects 
 
+This repository contains homework submissions for the course "System Identification," instructed by Dr. Babak Nadjar Araabi.
+
+
 ## Homework 1: Least Squares Estimation
 
 In this assignment, we delve into the fundamental concept of least squares estimation. The project covers the application of least squares in system identification, providing insights into its implementation and significance.
