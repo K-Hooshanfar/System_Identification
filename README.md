@@ -37,4 +37,17 @@ In this assignment, we delve into advanced techniques in system identification, 
 - **Kalman Filter:** Introduce the Kalman filter as a recursive estimator, particularly useful for systems with stochastic dynamics and measurements.
 
 
+## Project 2: Parameter Estimation for Various Models
+
+### Key Features:
+
+- **Parameter Estimation for Different Models:**
+  Explore parameter estimation techniques for a variety of models commonly used in system identification, including:
+
+  - **Output Error (OE) Models**
+  - **Box-Jenkins (BJ) Models**
+  - **AutoRegressive AutoRegressive with eXogenous inputs (ARARX) Models**
+  - **AutoRegressive Moving Average with eXogenous inputs (ARMAX) Models**
+  - **AutoRegressive with eXogenous inputs (ARX) Models**
+
 
